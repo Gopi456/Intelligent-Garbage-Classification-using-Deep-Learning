@@ -1,0 +1,33 @@
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+}
+nav ul{
+    justify-content: center;
+    display: flex;
+
+}
+nav ul li{
+    list-style: none;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 30px;
+
+}
+.left{
+    font-size: 30px;
+    color:black;
+    ;
+}
+a{
+    text-decoration: none;
+
+}
+button{
+            background-color: brown;
+            color:black;
+            font-size: 1.5rem;
+            margin-left: 10px;
+        }
